@@ -3,7 +3,7 @@ FPS game with shooting , sound effects (non-stereo) <br>
 
 
 
-Playable game with shooting , proper believeable physics implementation <br>
+Playable game with shooting , proper believeable physics implementation . RayCasting for bullet shooting <br>
 
 ---
 
