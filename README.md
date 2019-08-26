@@ -5,6 +5,18 @@ FPS game with shooting , sound effects (non-stereo) <br>
 
 Playable game with shooting , proper believeable physics implementation <br>
 
+---
+
+*Control Guide*
+- (W , S , A , D) : Movements
+- Mouse : Yaw / Pitch
+- Left Click : Shoot
+- M : Change Lighting
+
+
+---
+
+
 *Screen Shots of game* <br>
 <br>
 
